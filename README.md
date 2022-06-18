@@ -1,3 +1,3 @@
 ## Hey, I'm TsuSh 🐱
 
--- 🐱‍🚀 - I actually working on new project
+- 🐱‍🚀 - I actually working on new project

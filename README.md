@@ -1,4 +1,4 @@
-# Hey, I'm TsuSh
+## Hey, I'm TsuSh
 
 <!--
 **TsuuSh/TsuuSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
